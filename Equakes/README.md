@@ -8,3 +8,5 @@ in the past decade or so.
 
 Able to filter earthquakes by magnitude and plot earthquakes
 on a world map with a dot size corresponding to their magnitude.
+
+All code is in p9_equakes.py
